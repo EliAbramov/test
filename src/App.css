@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.about, .main {
+  width: 450px;
+  margin: 40px auto;
+}
+
+.product {
+  border: 2px solid darkslategray;
+  padding: 20px;
+  margin: 10px auto;
+  width: 30%;
+  height: 175px;
+}
+
+/* .my-nav-link {
+  text-decoration: none !important;
+  color: darkslategray !important;
+  font-size: 20px;
+} */
