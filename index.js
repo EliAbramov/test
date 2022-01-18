@@ -2,8 +2,8 @@
 // window.alert("Hello Studetns")
 
 // print log and error log to console
-console.log("Cat")
-console.error("Dog")
+console.log("Cat 2")
+console.error("Dog 2")
 
 // change the text of the element
 // document.getElementById("myTitle").innerHTML = "Studetns"
@@ -92,7 +92,7 @@ console.log("index of z: " + name.indexOf("z"))
 console.log("sub stirng (5): " + name.substring(5)) // start from 5
 console.log("sub stirng (0, 4): " + name.substring(0, 4)) // start from 0 end at 4 (not included)
 console.log("sub stirng length: " + name.substring(0, 4).length) // 4
-console.log("replace last name: " + name.replace("Shovevani", "Abramov")) 
+console.log("replace last name: " + name.replace("Shovevani", "Abramov22")) 
 
 // EX 
 // Create string "Tomato Soup"
